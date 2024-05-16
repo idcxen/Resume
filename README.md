@@ -6,6 +6,10 @@ Typecho主题模板是自定义博客外观和功能的工具，允许用户通�
 
 演示网站地址：https://www.laobuluo.com/11655.html
 
-=================================================
-前端模板参考网上资源，欢迎大家使用和转载。
 
+
+**我们建站的时候还可以选择这些优秀的主机和云服务器**
+
+1. [独立IP虚拟主机](https://www.laobuluo.com/11068.html)：https://www.laobuluo.com/11068.html
+2. [欧洲外贸VPS](https://www.laobuluo.com/7921.html)：https://www.laobuluo.com/7921.html
+3. [美国年付VPS](https://www.laobuluo.com/11637.html)：https://www.laobuluo.com/11637.html
